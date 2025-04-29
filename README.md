@@ -7,8 +7,11 @@ x-fi is a decentralized spot margin trading protocol built on the TON blockchain
 x-fi is part of the KirkaFi modular DeFi infrastructure. It allows users to:
 
 Use assets like USDT, NOT, or tsTON as collateral
+
 Borrow assets with partial collateral (~50–70%)
+
 Execute leveraged spot trades on DEX pairs (long & short)
+
 Maintain full self-custody and transparency via smart contracts
 
 ## How it works
