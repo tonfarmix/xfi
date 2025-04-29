@@ -14,16 +14,23 @@ Maintain full self-custody and transparency via smart contracts
 ## How it works
 
 Users deposit collateral into the smart contract (e.g., USDT)
+
 The protocol calculates borrow power based on collateral ratio
+
 Users open long or short positions using DEX liquidity and borrowed assets in any pair represented in x-fi
+
 Positions are monitored via a Health Factor
+
 Partial liquidation is triggered automatically if HF drops below 1
 
 ## Risk Management
 
 Dynamic liquidation system (partial + fair refund)
+
 Health Factor tracking
+
 Automated notifications and risk thresholds
+
 Protocol-level Treasury covers rare bad debt cases
 
 ## Features
