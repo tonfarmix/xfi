@@ -46,8 +46,11 @@ Protocol-level Treasury covers rare bad debt cases
 ## 📅 Roadmap
 
 Smart contract testing Q2 2025
+
 DEX integration (Ston.fi) Q2 2025
+
 Launch on TON Mainnet (Summer 2025)
+
 Audit Q3 2025
 
 ## 📚 Docs
