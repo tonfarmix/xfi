@@ -52,8 +52,8 @@ Audit Q3 2025
 
 ## 📚 Docs
 
-Whitepaper (https://surf-find-d72.notion.site/Navigation-KirkaFi-1e0d3695ed868036acf3c5f42df19836?pvs=4)
-Litepaper (https://surf-find-d72.notion.site/Litepaper-1e1d3695ed86805d9b71d29b70c95466?pvs=4)
+[Whitepaper](https://surf-find-d72.notion.site/Navigation-KirkaFi-1e0d3695ed868036acf3c5f42df19836?pvs=4)
+[Litepaper](https://surf-find-d72.notion.site/Litepaper-1e1d3695ed86805d9b71d29b70c95466?pvs=4)
 API Reference (soon)
 x-fi UI Demo (soon) 
 
